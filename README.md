@@ -106,17 +106,6 @@ I enjoy solving challenging engineering problems and creating software that is r
 
 ---
 
-# 🏆 Professional Journey
-
-<div align="center">
-
-| Period              | Position                 | Company  |
-| ------------------- | ------------------------ | -------- |
-| Jul 2024 - Present  | Senior Software Engineer | Liveware |
-| Feb 2018 - Jan 2024 | Software Engineer        | Blizzup  |
-
-</div>
-
 ---
 
 # 🎓 Education
@@ -139,8 +128,6 @@ University of Bucharest
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
 </div>
 
 ---
@@ -159,8 +146,9 @@ University of Bucharest
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
+🟥🟧🟨🟩🟦🟪
+     🐍
+🟥🟧🟨🟩🟦🟪
 </div>
 
 ---
