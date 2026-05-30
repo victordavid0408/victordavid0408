@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Building+Scalable+Software;Distributed+Systems+Enthusiast;Full-Stack+Engineering;Web+%26+Mobile+Development;Clean+Architecture+Advocate" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=800&center=true&vCenter=true&width=900&lines=Software+Engineer;" />
 
 </div>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" />
@@ -126,7 +126,7 @@ University of Bucharest
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180" src="(https://github.com/victordavid0408/victordavid0408/blob/main/victor_github_overview.png"/>
 
 </div>
 
@@ -178,10 +178,6 @@ University of Bucharest
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="48"/>
-</a>
-
 <a href="https://github.com/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
@@ -193,7 +189,6 @@ University of Bucharest
 <div align="center">
 
 ### 💡 "Great software emerges from thoughtful design, continuous learning, and attention to detail."
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7" />
+ 
 
 </div>
