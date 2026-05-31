@@ -126,7 +126,7 @@ University of Bucharest
 
 <div align="center">
 
-<img height="180" src="https://github.com/victordavid0408/victordavid0408/blob/main/victor_github_overview.png" width="100%"/>
+<img height="380" src="https://github.com/victordavid0408/victordavid0408/blob/main/victor_github_overview.png" width="100%"/>
 
 </div>
 
